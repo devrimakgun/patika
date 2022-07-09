@@ -1,2 +1,2 @@
 # patika
- this repo for mt patika.dev projects
+ this repo for my patika.dev projects
