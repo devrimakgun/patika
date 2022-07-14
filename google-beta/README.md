@@ -1,6 +1,6 @@
 # Google 98 
 
-This is my basic tesla landing page project.
+This is my google beta project.
 
 You can see the screenshoot below 👇
 
